@@ -4,7 +4,7 @@ An open-source multi-week squad and transfer optimizer for **LOTTO Fantasy Ekstr
 
 ---
 
-##  Quickstart
+## Quickstart
 
 ```bash
 # 1. Clone & install
