@@ -2,7 +2,7 @@
 
 An ILP-based squad optimizer for LOTTO Fantasy Ekstraklasa, in the
 spirit of [open-fpl-solver](https://github.com/solioanalytics/open-fpl-solver)
-and the World Cup fantasy tool it inspired. No paid APIs, no hosting cost —
+. No paid APIs, no hosting cost —
 everything runs on your laptop with `pandas` + `PuLP` (which bundles the
 free CBC solver).
 
