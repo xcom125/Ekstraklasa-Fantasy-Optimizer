@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local settings (keep settings.example.json public!)
+settings.json
+settings.vamps.json
+
+# Local exports and raw user data
+exports/*.csv
