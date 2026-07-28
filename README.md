@@ -1,6 +1,6 @@
 # Ekstraklasa Fantasy Optimizer (free, local, open-source)
 
-An ILP-based squad optimizer for LOTTO Fantasy Ekstraklasa 2026/27, in the
+An ILP-based squad optimizer for LOTTO Fantasy Ekstraklasa, in the
 spirit of [open-fpl-solver](https://github.com/solioanalytics/open-fpl-solver)
 and the World Cup fantasy tool it inspired. No paid APIs, no hosting cost —
 everything runs on your laptop with `pandas` + `PuLP` (which bundles the
