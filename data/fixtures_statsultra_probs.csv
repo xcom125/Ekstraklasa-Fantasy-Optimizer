@@ -1,0 +1,19 @@
+team,gw,opponent,is_home,win_prob,draw_prob,date
+Piast Gliwice,1,Zagłębie Lubin,False,0.315,0.265,2026-07-27
+Zagłębie Lubin,1,Piast Gliwice,True,0.42,0.265,2026-07-27
+Cracovia,2,Pogoń Szczecin,True,0.426,0.269,2026-08-03
+GKS Katowice,2,Radomiak Radom,True,0.459,0.254,2026-08-02
+Jagiellonia Białystok,2,Motor Lublin,False,0.434,0.248,2026-07-31
+Lech Poznań,2,Wieczysta Kraków,False,0.575,0.23,2026-08-01
+Legia Warszawa,2,Zagłębie Lubin,True,0.508,0.259,2026-08-02
+Motor Lublin,2,Jagiellonia Białystok,True,0.318,0.248,2026-07-31
+Piast Gliwice,2,Wisła Kraków,True,0.475,0.254,2026-08-01
+Pogoń Szczecin,2,Cracovia,False,0.306,0.269,2026-08-03
+Radomiak Radom,2,GKS Katowice,False,0.287,0.254,2026-08-02
+Raków Częstochowa,2,Śląsk Wrocław,False,0.497,0.253,2026-08-02
+Widzew Łódź,2,Wisła Płock,False,0.417,0.279,2026-07-31
+Wieczysta Kraków,2,Lech Poznań,True,0.195,0.23,2026-08-01
+Wisła Kraków,2,Piast Gliwice,False,0.271,0.254,2026-08-01
+Wisła Płock,2,Widzew Łódź,True,0.304,0.279,2026-07-31
+Zagłębie Lubin,2,Legia Warszawa,False,0.234,0.259,2026-08-02
+Śląsk Wrocław,2,Raków Częstochowa,True,0.251,0.253,2026-08-02

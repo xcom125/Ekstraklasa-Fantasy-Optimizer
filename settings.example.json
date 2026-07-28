@@ -1,0 +1,12 @@
+{
+  "projection_file": "data/players_pool.csv",
+  "next_round": 1,
+  "horizon": 8,
+  "initial_squad": [123, 456],
+  "decay_base": 0.85,
+  "itb": 0.0,
+  "ft": 2,
+  "xmin_lb": 45,
+  "use_wildcard": [3],
+  "chip_plan": {"3": "wildcard", "10": "joker (not yet enforced by solver)"}
+}

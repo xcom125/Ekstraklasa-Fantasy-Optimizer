@@ -1,0 +1,6 @@
+pandas>=2.0
+pulp>=2.8          # bundles CBC solver, no license or key needed
+beautifulsoup4>=4.12   # for parsing FBref's .xls (HTML table) exports
+lxml>=5.0              # fast HTML parser backend for BeautifulSoup/pandas.read_html
+openpyxl>=3.1          # reads the .xlsx fixtures workbook in pipeline/fbref_stats.py
+# highspy>=1.7     # optional: uncomment for the (faster) HiGHS solver

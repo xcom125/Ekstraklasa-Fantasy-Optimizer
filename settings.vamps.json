@@ -1,0 +1,12 @@
+{
+  "projection_file": "data/players_pool_vamps.csv",
+  "next_round": 1,
+  "horizon": 8,
+  "initial_squad": [],
+  "decay_base": 0.85,
+  "itb": 0.0,
+  "ft": 2,
+  "xmin_lb": 45,
+  "use_wildcard": [],
+  "chip_plan": {}
+}

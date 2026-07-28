@@ -1,0 +1,121 @@
+week,player_id,name,club,position,price,role,transfers_in,transfers_out,hit_taken
+1,774,Sebastian Bergier,Widzew Łódź,FWD,2.4,XI (C),,,0
+1,1026,Mateusz Lis,Lech Poznań,GK,1.8,XI,,,0
+1,1168,Patryk Makuch,Raków Częstochowa,FWD,1.9,XI,,,0
+1,1192,Erik Janža,Górnik Zabrze,DEF,2.2,XI,,,0
+1,1225,Jan Grzesik,Radomiak Radom,DEF,2.0,XI (VC),,,0
+1,1299,Jean Carlos Silva,Raków Częstochowa,DEF,2.2,XI,,,0
+1,1926,Roberto Alves,Radomiak Radom,MID,1.8,XI,,,0
+1,2498,Patrik Wålemark,Lech Poznań,MID,2.3,XI,,,0
+1,2759,Eman Markovic,GKS Katowice,MID,2.2,XI,,,0
+1,2880,Marko Bozic,Wisła Kraków,MID,1.8,XI,,,0
+1,2906,Stefan Feiertag,Wieczysta Kraków,FWD,1.9,XI,,,0
+1,2843,Wiktor Żołneczko,Raków Częstochowa,GK,0.7,BENCH 1,,,0
+1,1319,Paweł Wszołek,Legia Warszawa,DEF,2.0,BENCH 2,,,0
+1,2781,Žan Rogelj,Wisła Płock,DEF,1.8,BENCH 3,,,0
+1,2957,Patryk Dziekoński,Zagłębie Lubin,MID,0.7,BENCH 4,,,0
+2,480,Bartosz Nowak,GKS Katowice,MID,3.3,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,774,Sebastian Bergier,Widzew Łódź,FWD,2.4,XI (C),"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,1026,Mateusz Lis,Lech Poznań,GK,1.8,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,1168,Patryk Makuch,Raków Częstochowa,FWD,1.9,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,1225,Jan Grzesik,Radomiak Radom,DEF,2.0,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,1299,Jean Carlos Silva,Raków Częstochowa,DEF,2.2,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,1319,Paweł Wszołek,Legia Warszawa,DEF,2.0,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,1507,Łukasz Zjawiński,Legia Warszawa,FWD,2.1,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,1926,Roberto Alves,Radomiak Radom,MID,1.8,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,2498,Patrik Wålemark,Lech Poznań,MID,2.3,XI (VC),"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,2759,Eman Markovic,GKS Katowice,MID,2.2,XI,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,2843,Wiktor Żołneczko,Raków Częstochowa,GK,0.7,BENCH 1,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,2781,Žan Rogelj,Wisła Płock,DEF,1.8,BENCH 2,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,1192,Erik Janža,Górnik Zabrze,DEF,2.2,BENCH 3,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+2,2957,Patryk Dziekoński,Zagłębie Lubin,MID,0.7,BENCH 4,"480 - Bartosz Nowak, 1507 - Łukasz Zjawiński","2880 - Marko Bozic, 2906 - Stefan Feiertag",0
+3,480,Bartosz Nowak,GKS Katowice,MID,3.3,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,1026,Mateusz Lis,Lech Poznań,GK,1.8,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,1168,Patryk Makuch,Raków Częstochowa,FWD,1.9,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,1225,Jan Grzesik,Radomiak Radom,DEF,2.0,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,1299,Jean Carlos Silva,Raków Częstochowa,DEF,2.2,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,1507,Łukasz Zjawiński,Legia Warszawa,FWD,2.1,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,2498,Patrik Wålemark,Lech Poznań,MID,2.3,XI (C),"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,2759,Eman Markovic,GKS Katowice,MID,2.2,XI (VC),"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,2781,Žan Rogelj,Wisła Płock,DEF,1.8,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,2880,Marko Bozic,Wisła Kraków,MID,1.8,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,2906,Stefan Feiertag,Wieczysta Kraków,FWD,1.9,XI,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,2843,Wiktor Żołneczko,Raków Częstochowa,GK,0.7,BENCH 1,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,1319,Paweł Wszołek,Legia Warszawa,DEF,2.0,BENCH 2,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,1192,Erik Janža,Górnik Zabrze,DEF,2.2,BENCH 3,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+3,2957,Patryk Dziekoński,Zagłębie Lubin,MID,0.7,BENCH 4,"2880 - Marko Bozic, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 1926 - Roberto Alves",0
+4,480,Bartosz Nowak,GKS Katowice,MID,3.3,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,774,Sebastian Bergier,Widzew Łódź,FWD,2.4,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,1026,Mateusz Lis,Lech Poznań,GK,1.8,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,1192,Erik Janža,Górnik Zabrze,DEF,2.2,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,1225,Jan Grzesik,Radomiak Radom,DEF,2.0,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,1299,Jean Carlos Silva,Raków Częstochowa,DEF,2.2,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,1319,Paweł Wszołek,Legia Warszawa,DEF,2.0,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,1507,Łukasz Zjawiński,Legia Warszawa,FWD,2.1,XI (C),"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,2498,Patrik Wålemark,Lech Poznań,MID,2.3,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,2708,Mileta Rajović,Legia Warszawa,FWD,1.9,XI (VC),"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,2759,Eman Markovic,GKS Katowice,MID,2.2,XI,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,2843,Wiktor Żołneczko,Raków Częstochowa,GK,0.7,BENCH 1,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,2880,Marko Bozic,Wisła Kraków,MID,1.8,BENCH 2,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,2781,Žan Rogelj,Wisła Płock,DEF,1.8,BENCH 3,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+4,2957,Patryk Dziekoński,Zagłębie Lubin,MID,0.7,BENCH 4,"774 - Sebastian Bergier, 2708 - Mileta Rajović","1168 - Patryk Makuch, 2906 - Stefan Feiertag",0
+5,774,Sebastian Bergier,Widzew Łódź,FWD,2.4,XI (C),"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,791,Dawid Błanik,Korona Kielce,MID,2.2,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,1026,Mateusz Lis,Lech Poznań,GK,1.8,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,1225,Jan Grzesik,Radomiak Radom,DEF,2.0,XI (VC),"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,1319,Paweł Wszołek,Legia Warszawa,DEF,2.0,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,1507,Łukasz Zjawiński,Legia Warszawa,FWD,2.1,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,2481,Ajdin Hasić,Cracovia,MID,2.2,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,2498,Patrik Wålemark,Lech Poznań,MID,2.3,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,2708,Mileta Rajović,Legia Warszawa,FWD,1.9,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,2759,Eman Markovic,GKS Katowice,MID,2.2,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,2781,Žan Rogelj,Wisła Płock,DEF,1.8,XI,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,2843,Wiktor Żołneczko,Raków Częstochowa,GK,0.7,BENCH 1,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,2880,Marko Bozic,Wisła Kraków,MID,1.8,BENCH 2,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,1299,Jean Carlos Silva,Raków Częstochowa,DEF,2.2,BENCH 3,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+5,1192,Erik Janža,Górnik Zabrze,DEF,2.2,BENCH 4,"791 - Dawid Błanik, 2481 - Ajdin Hasić","480 - Bartosz Nowak, 2957 - Patryk Dziekoński",0
+6,791,Dawid Błanik,Korona Kielce,MID,2.2,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,1026,Mateusz Lis,Lech Poznań,GK,1.8,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,1225,Jan Grzesik,Radomiak Radom,DEF,2.0,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,1319,Paweł Wszołek,Legia Warszawa,DEF,2.0,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,1507,Łukasz Zjawiński,Legia Warszawa,FWD,2.1,XI (C),"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,2481,Ajdin Hasić,Cracovia,MID,2.2,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,2498,Patrik Wålemark,Lech Poznań,MID,2.3,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,2708,Mileta Rajović,Legia Warszawa,FWD,1.9,XI (VC),"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,2781,Žan Rogelj,Wisła Płock,DEF,1.8,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,2880,Marko Bozic,Wisła Kraków,MID,1.8,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,2906,Stefan Feiertag,Wieczysta Kraków,FWD,1.9,XI,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,2843,Wiktor Żołneczko,Raków Częstochowa,GK,0.7,BENCH 1,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,1192,Erik Janža,Górnik Zabrze,DEF,2.2,BENCH 2,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,2679,Paul Mukairu,Pogoń Szczecin,MID,2.1,BENCH 3,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+6,1299,Jean Carlos Silva,Raków Częstochowa,DEF,2.2,BENCH 4,"2679 - Paul Mukairu, 2906 - Stefan Feiertag","774 - Sebastian Bergier, 2759 - Eman Markovic",0
+7,774,Sebastian Bergier,Widzew Łódź,FWD,2.4,XI (C),"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,791,Dawid Błanik,Korona Kielce,MID,2.2,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,1225,Jan Grzesik,Radomiak Radom,DEF,2.0,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,1319,Paweł Wszołek,Legia Warszawa,DEF,2.0,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,1507,Łukasz Zjawiński,Legia Warszawa,FWD,2.1,XI (VC),"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,1795,Sławomir Abramowicz,Jagiellonia Białystok,GK,2.0,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,2498,Patrik Wålemark,Lech Poznań,MID,2.3,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,2679,Paul Mukairu,Pogoń Szczecin,MID,2.1,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,2781,Žan Rogelj,Wisła Płock,DEF,1.8,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,2880,Marko Bozic,Wisła Kraków,MID,1.8,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,2906,Stefan Feiertag,Wieczysta Kraków,FWD,1.9,XI,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,2843,Wiktor Żołneczko,Raków Częstochowa,GK,0.7,BENCH 1,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,2481,Ajdin Hasić,Cracovia,MID,2.2,BENCH 2,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,1192,Erik Janža,Górnik Zabrze,DEF,2.2,BENCH 3,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+7,1299,Jean Carlos Silva,Raków Częstochowa,DEF,2.2,BENCH 4,"774 - Sebastian Bergier, 1795 - Sławomir Abramowicz","1026 - Mateusz Lis, 2708 - Mileta Rajović",0
+8,791,Dawid Błanik,Korona Kielce,MID,2.2,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,1168,Patryk Makuch,Raków Częstochowa,FWD,1.9,XI (C),"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,1225,Jan Grzesik,Radomiak Radom,DEF,2.0,XI (VC),"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,1299,Jean Carlos Silva,Raków Częstochowa,DEF,2.2,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,1507,Łukasz Zjawiński,Legia Warszawa,FWD,2.1,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,1926,Roberto Alves,Radomiak Radom,MID,1.8,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,2481,Ajdin Hasić,Cracovia,MID,2.2,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,2679,Paul Mukairu,Pogoń Szczecin,MID,2.1,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,2781,Žan Rogelj,Wisła Płock,DEF,1.8,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,2843,Wiktor Żołneczko,Raków Częstochowa,GK,0.7,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,2906,Stefan Feiertag,Wieczysta Kraków,FWD,1.9,XI,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,1795,Sławomir Abramowicz,Jagiellonia Białystok,GK,2.0,BENCH 1,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,2498,Patrik Wålemark,Lech Poznań,MID,2.3,BENCH 2,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,1319,Paweł Wszołek,Legia Warszawa,DEF,2.0,BENCH 3,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0
+8,1192,Erik Janža,Górnik Zabrze,DEF,2.2,BENCH 4,"1168 - Patryk Makuch, 1926 - Roberto Alves","774 - Sebastian Bergier, 2880 - Marko Bozic",0

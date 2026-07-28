@@ -1,0 +1,566 @@
+ekstraklasa_id,player_id,web_name,player_name,pos,price,team_name,appearances,minutes_played,goals,xg,assists,xa,xGI,xGI_per_90,key_passes,shots_total,shots_on_target
+10,,Pestka,Kamil Pestka,DEF,1.7,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,,Dabrowski,Damian Dąbrowski,MID,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,,Niemczycki,Karol Niemczycki,GKP,1.8,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,578364.0,Romanczuk,Taras Romanczuk,MID,1.9,Jagiellonia,1.0,90.0,0.0,0.0,0.0,0.03,0.03,0.03,0.0,0.0,0.0
+87,345972.0,Szymanski,Damian Szymański,MID,1.8,Legia,1.0,83.0,0.0,0.08,0.0,0.06,0.14,0.15,2.0,1.0,0.0
+88,,Szymonowicz,Dawid Szymonowicz,DEF,1.7,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,576438.0,Swiderski,Karol Świderski,FWD,2.6,Widzew Lodz,1.0,25.0,0.0,0.51,0.0,0.01,0.52,1.87,1.0,3.0,0.0
+118,843362.0,Mokrzycki,Michał Mokrzycki,MID,1.6,Slask Wroclaw,1.0,64.0,0.0,0.0,0.0,0.07,0.07,0.1,3.0,0.0,0.0
+128,111129.0,Sekulski,Łukasz Sekulski,FWD,2.1,Wisla Plock,1.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,,Buric,Jasmin Burić,GKP,1.9,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138,834986.0,Gumny,Robert Gumny,DEF,1.8,Lech Poznan,1.0,64.0,0.0,0.01,0.0,0.01,0.02,0.03,0.0,1.0,1.0
+147,814820.0,Jozwiak,Kamil Jóźwiak,MID,1.9,Jagiellonia,1.0,61.0,0.0,0.0,0.0,0.03,0.03,0.04,0.0,0.0,0.0
+166,133544.0,Janicki,Rafał Janicki,DEF,2.0,Gornik Zabrze,1.0,90.0,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0
+184,137135.0,Wolski,Rafał Wolski,MID,2.2,Radomiak,1.0,75.0,0.0,0.14,0.0,0.33,0.47,0.56,4.0,2.0,0.0
+195,109461.0,Bereszynski,Bartosz Bereszyński,DEF,1.9,Motor Lublin,1.0,83.0,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0
+239,138596.0,Flis,Marcin Flis,DEF,1.7,Wisla Plock,1.0,90.0,1.0,0.1,0.0,0.09,0.19,0.19,1.0,1.0,1.0
+244,227440.0,Murawski,Radosław Murawski,MID,1.7,Lech Poznan,1.0,26.0,0.0,0.05,0.0,0.03,0.08,0.28,0.0,2.0,1.0
+256,,Czerwinski,Jakub Czerwiński,DEF,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+303,189127.0,Stepinski,Mariusz Stępiński,FWD,2.2,Korona Kielce,1.0,67.0,0.0,0.0,0.0,0.01,0.01,0.01,1.0,0.0,0.0
+308,,Dankowski,Kamil Dankowski,DEF,1.6,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+374,138601.0,Uryga,Alan Uryga,DEF,1.6,Wisla Krakow,1.0,90.0,0.0,0.14,0.0,0.02,0.16,0.16,0.0,1.0,0.0
+382,,Hladun,Dominik Hładun,GKP,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392,335887.0,Jagiello,Filip Jagiełło,MID,1.8,Lech Poznan,1.0,64.0,0.0,0.0,0.0,0.02,0.02,0.03,1.0,0.0,0.0
+395,,Kubicki,Jarosław Kubicki,MID,1.9,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+402,,Wozniak,Arkadiusz Woźniak,MID,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+423,,Blad,Adrian Błąd,MID,1.7,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+432,792141.0,Tomasiewicz,Grzegorz Tomasiewicz,MID,1.7,Slask Wroclaw,1.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+458,580638.0,Reca,Arkadiusz Reca,DEF,1.7,Legia,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+480,316216.0,Nowak,Bartosz Nowak,MID,3.3,GKS Katowice,1.0,90.0,0.0,0.3,0.0,0.16,0.46,0.46,3.0,2.0,1.0
+563,851511.0,Wasielewski,Marcin Wasielewski,DEF,2.0,GKS Katowice,1.0,61.0,0.0,0.0,0.0,0.06,0.06,0.09,1.0,0.0,0.0
+587,572744.0,Dziczek,Patryk Dziczek,MID,1.9,Pogon Szczecin,1.0,90.0,0.0,0.04,0.0,0.01,0.05,0.05,0.0,1.0,1.0
+633,335825.0,Wdowiak,Mateusz Wdowiak,MID,1.8,GKS Katowice,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+672,,Loska,Tomasz Loska,GKP,1.6,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+681,,Nalepa,Michał Nalepa,DEF,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+692,337301.0,Arsenic,Zoran Arsenić,DEF,1.8,Legia,1.0,10.0,1.0,0.36,0.0,0.01,0.37,3.33,0.0,1.0,1.0
+698,260085.0,Czerwinski,Alan Czerwiński,DEF,1.8,GKS Katowice,1.0,29.0,0.0,0.0,0.0,0.09,0.09,0.28,1.0,0.0,0.0
+701,281307.0,Kun,Patryk Kun,DEF,1.7,Wisla Plock,1.0,90.0,0.0,0.0,0.0,0.02,0.02,0.02,0.0,0.0,0.0
+705,,Rasak,Damian Rasak,MID,1.7,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+722,,Angielski,Karol Angielski,FWD,1.8,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+724,,Alomerovic,Zlatan Alomerović,GKP,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+765,175177.0,Imaz,Jesús Imaz,MID,3.5,Jagiellonia,1.0,86.0,0.0,0.02,0.0,0.11,0.13,0.14,1.0,1.0,0.0
+774,913575.0,Bergier,Sebastian Bergier,FWD,2.4,Widzew Lodz,1.0,90.0,1.0,1.1,0.0,0.12,1.22,1.22,2.0,3.0,2.0
+790,,Plach,František Plach,GKP,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+791,794277.0,Blanik,Dawid Błanik,MID,2.2,Korona Kielce,1.0,84.0,0.0,0.18,0.0,0.19,0.37,0.4,2.0,4.0,0.0
+799,,Bochniewicz,Paweł Bochniewicz,DEF,1.8,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+813,851245.0,Zyro,Mateusz Żyro,DEF,1.7,Widzew Lodz,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+827,,Grzybek,Mateusz Grzybek,DEF,1.9,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+860,926184.0,Dlugosz,Wiktor Długosz,MID,1.8,Korona Kielce,1.0,90.0,0.0,0.13,0.0,0.01,0.14,0.14,0.0,3.0,1.0
+923,338475.0,Augustyniak,Rafał Augustyniak,DEF,1.8,Legia,1.0,90.0,0.0,0.13,0.0,0.04,0.17,0.17,0.0,3.0,0.0
+950,,Cichocki,Mateusz Cichocki,DEF,1.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+951,198796.0,Jedrych,Arkadiusz Jędrych,DEF,2.3,GKS Katowice,1.0,90.0,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0
+964,,Milewski,Sebastian Milewski,MID,1.8,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+979,940867.0,Repka,Oskar Repka,MID,2.0,Rakow,1.0,90.0,0.0,0.04,0.0,0.04,0.08,0.08,0.0,2.0,0.0
+992,931266.0,Wisniewski,Przemysław Wiśniewski,DEF,2.0,Widzew Lodz,1.0,90.0,0.0,0.02,0.0,0.04,0.06,0.06,0.0,1.0,0.0
+994,789971.0,Klemenz,Lukas Klemenz,DEF,2.0,GKS Katowice,1.0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1005,871041.0,Fila,Karol Fila,DEF,1.7,Wieczysta,1.0,90.0,0.0,0.29,0.0,0.09,0.38,0.38,1.0,1.0,0.0
+1010,,Garcia,Jorge Félix Garcia,MID,1.9,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1012,,Sokolowski,Patryk Sokołowski,MID,1.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1015,,Malec,Mariusz Malec,DEF,1.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1020,,Labojko,Jakub Łabojko,MID,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1026,798375.0,Lis,Mateusz Lis,GKP,1.8,Lech Poznan,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1029,,Zynel,Bartłomiej Żynel,GKP,1.4,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1039,,Biedrzycki,Wiktor Biedrzycki,DEF,1.7,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1092,941964.0,Talar,Piotr Samiec-Talar,MID,2.0,Slask Wroclaw,1.0,90.0,0.0,0.11,1.0,0.55,0.66,0.66,2.0,2.0,1.0
+1094,966929.0,Marchwinski,Filip Marchwiński,MID,2.1,Cracovia,1.0,24.0,0.0,0.0,0.0,0.01,0.01,0.04,0.0,0.0,0.0
+1126,942335.0,Piatkowski,Kamil Piątkowski,DEF,2.0,Legia,1.0,90.0,0.0,0.04,0.0,0.11,0.15,0.15,3.0,1.0,0.0
+1136,863022.0,Praszelik,Mateusz Praszelik,MID,1.7,Cracovia,1.0,1.0,0.0,0.0,0.0,0.03,0.03,2.7,0.0,0.0,0.0
+1146,,Buksa,Aleksander Buksa,FWD,1.5,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1168,979393.0,Makuch,Patryk Makuch,FWD,1.9,Rakow,1.0,90.0,1.0,1.02,0.0,0.01,1.03,1.03,0.0,4.0,2.0
+1169,,Skrzypczak,Mateusz Skrzypczak,DEF,1.8,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1186,,Rakoczy,Michał Rakoczy,MID,1.8,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1192,124590.0,Janza,Erik Janža,DEF,2.2,Gornik Zabrze,1.0,90.0,0.0,0.06,0.0,0.3,0.36,0.36,6.0,1.0,1.0
+1194,,Paluszek,Aleksander Paluszek,DEF,1.6,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1214,,Szymczak,Filip Szymczak,FWD,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1225,792239.0,Grzesik,Jan Grzesik,DEF,2.0,Radomiak,1.0,90.0,1.0,0.75,1.0,0.28,1.03,1.03,1.0,3.0,2.0
+1244,,Kaminski,Wojciech Kamiński,MID,1.5,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1252,,Wedrychowski,Marcel Wędrychowski,MID,1.7,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1280,,Michalski,Damian Michalski,DEF,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1285,845787.0,Luquinhas,Lucas Luquinhas,MID,2.0,Radomiak,1.0,90.0,0.0,0.06,1.0,0.33,0.39,0.39,2.0,1.0,0.0
+1290,,Struski,Karol Struski,MID,1.7,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1299,796432.0,Silva,Jean Carlos Silva,DEF,2.2,Rakow,1.0,90.0,0.0,0.05,0.0,0.24,0.29,0.29,2.0,2.0,1.0
+1319,139152.0,Wszolek,Paweł Wszołek,DEF,2.0,Legia,1.0,90.0,0.0,0.2,1.0,0.33,0.53,0.53,4.0,2.0,1.0
+1327,1012383.0,Urbanski,Kacper Urbański,MID,1.8,Gornik Zabrze,1.0,90.0,0.0,0.16,0.0,0.08,0.24,0.24,0.0,1.0,0.0
+1332,562194.0,Jirka,Erik Jirka,DEF,1.9,GKS Katowice,1.0,29.0,0.0,0.0,0.0,0.05,0.05,0.16,1.0,0.0,0.0
+1334,,Holz,Conrado Buchanelli Holz,DEF,1.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1341,792659.0,Tudor,Fran Tudor,DEF,1.9,Rakow,1.0,90.0,0.0,0.05,0.0,0.08,0.13,0.13,2.0,1.0,0.0
+1360,,Chodyna,Kacper Chodyna,MID,1.8,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1369,,Pawlak,Aleksander Pawlak,MID,1.4,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1373,1030308.0,Lederman,Ben Lederman,MID,1.7,Wieczysta,1.0,79.0,0.0,0.09,0.0,0.08,0.17,0.19,1.0,3.0,0.0
+1386,1009281.0,Mosor,Ariel Mosór,DEF,1.8,Korona Kielce,1.0,90.0,0.0,0.07,0.0,0.08,0.15,0.15,1.0,2.0,0.0
+1398,,Sypek,Jakub Sypek,MID,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1400,1033201.0,Dziekonski,Xavier Dziekoński,GKP,2.0,Korona Kielce,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1401,1022964.0,Szczesniak,Kryspin Szcześniak,DEF,1.7,Radomiak,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1403,,Warchol,Damian Warchoł,MID,1.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1407,,Sewerys,Radosław Seweryś,DEF,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1411,72255.0,Leszczynski,Rafał Leszczyński,GKP,1.8,Wisla Plock,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1415,,Jaroch,Bartosz Jaroch,DEF,1.6,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1435,,Straczek,Rafał Strączek,GKP,1.9,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1440,,Lisowski,Wojciech Lisowski,DEF,1.6,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1455,,Lawniczak,Aleks Ławniczak,DEF,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1464,984137.0,Szmyt,Kajetan Szmyt,MID,2.1,Jagiellonia,1.0,86.0,0.0,0.06,0.0,0.04,0.1,0.1,0.0,1.0,1.0
+1471,,Lukoszek,Kamil Lukoszek,MID,1.7,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1475,114062.0,Ishak,Mikael Ishak,FWD,4.0,Lech Poznan,1.0,90.0,0.0,0.17,0.0,0.1,0.27,0.27,1.0,3.0,1.0
+1490,,Trelowski,Kacper Trelowski,GKP,1.9,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1493,95359.0,Szromnik,Michał Szromnik,GKP,1.7,Slask Wroclaw,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1494,1031256.0,Duda,Kacper Duda,MID,1.6,Wisla Krakow,1.0,89.0,0.0,0.04,0.0,0.19,0.23,0.23,4.0,1.0,0.0
+1507,910044.0,Zjawinski,Łukasz Zjawiński,FWD,2.1,Legia,1.0,81.0,0.0,1.09,0.0,0.01,1.1,1.22,1.0,5.0,1.0
+1509,,Gradecki,Bartłomiej Gradecki,GKP,1.5,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1521,309648.0,Kapustka,Bartosz Kapustka,MID,1.9,Legia,1.0,81.0,0.0,0.2,0.0,0.05,0.25,0.28,0.0,2.0,0.0
+1529,1049444.0,Fornalczyk,Mariusz Fornalczyk,MID,2.0,Widzew Lodz,1.0,89.0,1.0,0.38,0.0,0.15,0.53,0.54,2.0,4.0,1.0
+1540,1020545.0,Wojtuszek,Norbert Wojtuszek,DEF,1.9,Jagiellonia,1.0,90.0,0.0,0.05,0.0,0.04,0.09,0.09,0.0,2.0,1.0
+1561,,Pankiewicz,Szymon Pankiewicz,DEF,0.7,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1573,110942.0,Milic,Antonio Milić,DEF,1.9,Wieczysta,1.0,57.0,0.0,0.0,0.0,0.03,0.03,0.05,0.0,0.0,0.0
+1578,935966.0,Bieganski,Jan Biegański,MID,1.7,Pogon Szczecin,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1580,,Konik,Patryk Konik,DEF,0.7,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1582,1100172.0,Matsenko,Yehor Matsenko,DEF,1.8,Slask Wroclaw,1.0,90.0,0.0,0.04,0.0,0.05,0.09,0.09,1.0,1.0,0.0
+1598,1064080.0,Legowski,Mateusz Łęgowski,MID,1.9,Motor Lublin,1.0,78.0,0.0,0.11,0.0,0.0,0.11,0.13,0.0,2.0,1.0
+1603,,Starzynski,Piotr Starzyński,MID,1.5,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1616,315162.0,Zrelak,Adam Zreľák,FWD,1.8,GKS Katowice,1.0,29.0,0.0,0.05,0.0,0.01,0.06,0.19,0.0,1.0,1.0
+1623,,Borowski,Filip Borowski,DEF,1.6,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1632,1101198.0,Kozubal,Antoni Kozubal,MID,2.0,Lech Poznan,1.0,90.0,0.0,0.05,0.0,0.2,0.25,0.25,2.0,1.0,1.0
+1635,,Koperski,Filip Koperski,DEF,1.6,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1653,796980.0,Radwanski,Adam Radwański,MID,1.8,Wisla Plock,1.0,87.0,0.0,0.0,0.0,0.18,0.18,0.19,0.0,0.0,0.0
+1673,890785.0,Banaszak,Przemysław Banaszak,FWD,2.0,Slask Wroclaw,1.0,64.0,1.0,0.62,0.0,0.01,0.63,0.89,0.0,3.0,1.0
+1675,926007.0,Majchrowicz,Filip Majchrowicz,GKP,1.8,Radomiak,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1682,,Kozak,Miłosz Kozak,MID,1.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1697,182023.0,Kakabadze,Otar Kakabadze,DEF,1.8,Cracovia,1.0,90.0,0.0,0.02,0.0,0.2,0.22,0.22,2.0,1.0,0.0
+1698,1063187.0,Knap,Karol Knap,MID,1.7,Cracovia,1.0,26.0,0.0,0.0,0.0,0.01,0.01,0.03,1.0,0.0,0.0
+1712,809489.0,Pereira,Joel Pereira,DEF,2.1,Lech Poznan,1.0,26.0,0.0,0.0,0.0,0.09,0.09,0.31,1.0,0.0,0.0
+1719,971393.0,Ameyaw,Michael Ameyaw,MID,2.1,Rakow,1.0,34.0,0.0,0.04,0.0,0.06,0.1,0.26,0.0,1.0,0.0
+1725,286071.0,Emreli,Mehir Emreli,FWD,2.3,Rakow,1.0,56.0,0.0,0.05,0.0,0.02,0.07,0.11,1.0,2.0,0.0
+1737,,Czyz,Szymon Czyż,MID,1.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1739,,Bieganski,Mikołaj Biegański,GKP,1.5,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1747,,Drapinski,Igor Drapiński,DEF,1.8,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1754,,Krol,Michał Król,MID,1.8,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1756,,Matuszewski,Konrad Matuszewski,DEF,1.9,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1757,,Mrozek,Bartosz Mrozek,GKP,2.2,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1770,1126979.0,Pienko,Tomasz Pieńko,MID,2.0,Rakow,1.0,82.0,0.0,0.06,0.0,0.07,0.13,0.14,0.0,1.0,1.0
+1794,33689.0,Grosicki,Kamil Grosicki,MID,2.5,Pogon Szczecin,1.0,28.0,0.0,0.06,0.0,0.15,0.21,0.67,1.0,1.0,0.0
+1795,1152849.0,Abramowicz,Sławomir Abramowicz,GKP,2.0,Jagiellonia,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1812,,Lokilo,Jason Lokilo,MID,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1831,1104084.0,Mikulko,Antoni Mikułko,GKP,1.7,Wieczysta,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1835,,Biczachczjan,Wahan Biczachczjan,MID,1.8,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1853,1048102.0,Racovitan,Bogdan Racovițan,DEF,2.0,Rakow,1.0,90.0,0.0,0.01,0.0,0.02,0.03,0.03,1.0,1.0,0.0
+1858,,Antczak,Jakub Antczak,MID,1.4,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1880,,Szkurin,Ilja Szkurin,FWD,2.1,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1889,1127202.0,Lukasiak,Kacper Łukasiak,MID,1.7,GKS Katowice,1.0,90.0,0.0,0.0,0.0,0.27,0.27,0.27,2.0,0.0,0.0
+1893,99524.0,Pacheco,Dani Pacheco,MID,1.8,Wisla Plock,1.0,90.0,0.0,0.0,0.0,0.21,0.21,0.21,0.0,0.0,0.0
+1900,,Koczerhin,Władysław Koczerhin,MID,2.0,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1906,,Kikolski,Maciej Kikolski,GKP,1.7,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1909,,Adamski,Rafał Adamski,FWD,2.0,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1922,990074.0,Pila,Dominik Piła,DEF,1.7,Cracovia,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1925,1009284.0,Kobylak,Gabriel Kobylak,GKP,1.7,GKS Katowice,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1926,1382908.0,Alves,Roberto Alves,MID,1.8,Radomiak,1.0,89.0,1.0,0.54,0.0,0.09,0.63,0.64,1.0,2.0,1.0
+1928,793267.0,Svarnas,Stratos Svarnas,DEF,2.1,Rakow,1.0,24.0,0.0,0.0,0.0,0.08,0.08,0.3,2.0,0.0,0.0
+1931,,Kapuadi,Steve Kapuadi,DEF,1.8,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1935,971523.0,Shehu,Juljan Shehu,MID,2.0,Widzew Lodz,1.0,90.0,0.0,0.0,0.0,0.05,0.05,0.05,3.0,0.0,0.0
+1948,,Ravas,Henrich Ravas,GKP,1.7,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1987,914771.0,Sanchez,Jordi Sánchez,FWD,1.8,Wisla Krakow,1.0,67.0,1.0,0.95,0.0,0.03,0.98,1.32,0.0,2.0,1.0
+1990,158085.0,Hiszpanski,Fabian Hiszpański,MID,1.7,Wisla Plock,1.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1994,,Strzebonski,Miłosz Strzeboński,MID,1.4,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1998,1016016.0,Kobacki,Olaf Kobacki,MID,1.8,Wisla Plock,1.0,45.0,0.0,0.02,0.0,0.13,0.15,0.3,0.0,1.0,0.0
+2000,803701.0,Semedo,Lisandro Semedo,MID,1.8,Wieczysta,1.0,68.0,0.0,0.05,0.0,0.05,0.1,0.13,1.0,1.0,0.0
+2002,1066687.0,Borges,Léo Borges,DEF,1.7,Pogon Szczecin,1.0,90.0,0.0,0.01,0.0,0.14,0.15,0.15,1.0,1.0,0.0
+2007,,Matys,Michał Matys,GKP,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,1106808.0,Hamulic,Saïd Hamulic,FWD,1.8,Wisla Plock,1.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2016,,Lewicki,Jakub Lewicki,DEF,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2032,,Lesniak,Oskar Leśniak,MID,1.6,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2046,1211028.0,Drachal,Dawid Drachal,MID,1.7,Jagiellonia,1.0,73.0,0.0,0.04,0.0,0.02,0.06,0.07,0.0,1.0,0.0
+2052,,Mamla,Rafał Mamla,GKP,1.6,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2053,554518.0,Madejski,Sebastian Madejski,GKP,1.8,Cracovia,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2057,,Kolasa,Józef Kolasa,MID,0.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2058,,Kocaba,Filip Kocaba,MID,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2059,,Kolan,Jakub Kolan,MID,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2063,,Liszewski,Piotr Liszewski,DEF,1.2,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2066,,Plata,David González Plata,MID,1.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2069,,Mucha,Szczepan Mucha,MID,1.0,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2073,279533.0,Wahlqvist,Linus Wahlqvist,DEF,1.8,Pogon Szczecin,1.0,90.0,0.0,0.0,0.0,0.15,0.15,0.15,1.0,0.0,0.0
+2090,282979.0,Donis,Chrístos Dónis,MID,1.6,Radomiak,1.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2096,,Smiglewski,Kacper Śmiglewski,FWD,1.5,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2098,,Sukiennicki,Olivier Sukiennicki,MID,1.5,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2100,,Stojinovic,Dušan Stojinović,DEF,1.7,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2104,,Sacek,Michal Sáček,DEF,1.8,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2114,,Burek,Jakub Burek,GKP,1.0,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2123,1423459.0,Gurgul,Michał Gurgul,DEF,2.3,Lech Poznan,1.0,90.0,0.0,0.02,0.0,0.14,0.16,0.16,2.0,1.0,0.0
+2125,,Kuczko,Gleb Kuczko,MID,0.9,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2126,,Bogacz,Wiktor Bogacz,FWD,1.6,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2134,,Tomaszewski,Bartosz Tomaszewski,DEF,0.7,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2160,,Jakuba,Roman Jakuba,DEF,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2163,971384.0,Pieczek,Marcel Pięczek,DEF,1.8,Korona Kielce,1.0,90.0,0.0,0.05,0.0,0.07,0.12,0.12,2.0,1.0,0.0
+2176,,Kowalczyk,Mateusz Kowalczyk,MID,1.9,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2189,851890.0,Dieguez,Adrián Diéguez,DEF,1.8,Radomiak,1.0,90.0,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0
+2198,,Krzywanski,Jan Krzywański,GKP,0.8,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2206,,Dalmau,Adrián Dalmau,FWD,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2208,827574.0,Remacle,Martin Remacle,MID,1.8,Korona Kielce,1.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2225,965034.0,Alvarez,Fran Álvarez,MID,2.0,Widzew Lodz,1.0,90.0,0.0,0.1,0.0,0.3,0.4,0.4,3.0,2.0,0.0
+2226,,Cybulski,Kamil Cybulski,MID,1.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2228,,Przybulek,Filip Przybułek,MID,0.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2234,,Gholizadeh,Ali Gholizadeh,MID,3.0,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2236,,Holewinski,Axel Holewiński,GKP,1.2,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2239,,Orlikowski,Igor Orlikowski,DEF,1.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2240,,Niedbala,Michał Niedbała,GKP,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2250,,Rychta,Dawid Rychta,GKP,0.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2256,,Molendowski,Mikołaj Molendowski,MID,0.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2261,,Szala,Dominik Szala,DEF,1.6,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2263,,Kucharczyk,Kacper Kucharczyk,MID,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2280,36922.0,Ulvestad,Fredrik Ulvestad,MID,2.1,Pogon Szczecin,1.0,28.0,0.0,0.08,0.0,0.01,0.09,0.29,1.0,1.0,1.0
+2281,,Kerk,Sebastian Kerk,MID,2.1,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2283,,Glik,Kamil Glik,DEF,1.6,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2286,182363.0,Cojocaru,Valentin Cojocaru,GKP,1.8,Pogon Szczecin,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2293,,Turek,Radosław Turek,DEF,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2295,1585761.0,Bak,Daniel Bąk,FWD,0.7,Korona Kielce,1.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2299,,Barczak,Norbert Barczak,DEF,1.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2300,,Koptas,Wiktor Koptas,GKP,1.2,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2302,,Chojecki,Adam Chojecki,MID,1.0,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2304,,Glogowski,Bartosz Głogowski,GKP,0.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2306,1546560.0,Mras,Tobiasz Mras,MID,0.7,Wieczysta,1.0,22.0,0.0,0.0,0.0,0.02,0.02,0.08,1.0,0.0,0.0
+2312,,Paryzek,Patryk Paryzek,FWD,1.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2316,,Pruchniewski,Mateusz Pruchniewski,GKP,0.7,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2325,890333.0,Otieno,Erick Otieno,DEF,1.8,Rakow,1.0,56.0,0.0,0.05,0.0,0.03,0.08,0.13,1.0,1.0,1.0
+2343,,Lisman,Kornel Lisman,MID,1.8,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2345,1536342.0,Urbanski,Wojciech Urbański,MID,1.7,Legia,1.0,90.0,0.0,0.0,0.0,0.03,0.03,0.03,1.0,0.0,0.0
+2346,1638822.0,Zewlakow,Jakub Żewłakow,MID,1.5,Legia,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+2348,,Klukowski,Antoni Klukowski,MID,1.2,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2351,,Karasinski,Szymon Karasiński,MID,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2353,357772.0,Maigaard,Mikkel Maigaard,MID,2.0,Wieczysta,1.0,90.0,0.0,0.0,0.0,0.07,0.07,0.07,0.0,0.0,0.0
+2366,,Golonka,Konrad Golonka,GKP,0.7,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2367,1562120.0,Monka,Wojciech Mońka,DEF,2.1,Lech Poznan,1.0,90.0,0.0,0.0,0.0,0.02,0.02,0.02,0.0,0.0,0.0
+2376,,Trepka,Łukasz Trepka,DEF,0.7,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2384,313014.0,Galan,Borja Galán,DEF,1.9,GKS Katowice,1.0,82.0,0.0,0.04,0.0,0.13,0.17,0.19,1.0,1.0,0.0
+2386,865794.0,Hellebrand,Patrik Hellebrand,MID,2.1,Korona Kielce,1.0,89.0,0.0,0.12,0.0,0.02,0.14,0.14,1.0,2.0,0.0
+2387,826668.0,Josema,José Manuel Josema,DEF,1.8,Gornik Zabrze,1.0,90.0,0.0,0.0,1.0,0.01,0.01,0.01,1.0,0.0,0.0
+2389,,Fadiga,Lamine Diaby-Fadiga,MID,2.1,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2391,,Villar,Miki Villar,MID,1.7,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2406,,Chlan,Maksym Chłań,MID,2.5,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2415,939772.0,Bartos,Marek Bartoš,DEF,1.7,Motor Lublin,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+2417,1172640.0,Luberecki,Filip Luberecki,DEF,1.7,Motor Lublin,1.0,90.0,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0
+2423,,N'Diaye,Mbaye N'Diaye,MID,2.4,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2424,787905.0,Wolski,Bartosz Wolski,MID,2.4,GKS Katowice,1.0,75.0,0.0,0.0,0.0,0.02,0.02,0.02,0.0,1.0,0.0
+2429,,Dudzinski,Marcel Mendes-Dudziński,GKP,1.3,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2430,231614.0,Nsame,Jean-Pierre Nsame,FWD,2.1,Pogon Szczecin,1.0,62.0,0.0,0.32,0.0,0.0,0.32,0.46,1.0,2.0,2.0
+2431,846441.0,Vinagre,Rúben Vinagre,DEF,1.8,Legia,1.0,88.0,0.0,0.07,0.0,0.39,0.46,0.47,4.0,2.0,1.0
+2434,,Perchel,Michał Perchel,GKP,1.6,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2435,1005407.0,Ouattara,Zié Ouattara,DEF,1.8,Radomiak,1.0,90.0,0.0,0.02,0.0,0.03,0.05,0.05,0.0,1.0,0.0
+2436,,Amorim,Adriano Amorim,MID,1.8,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2444,1514873.0,Krajewski,Marcel Krajewski,DEF,1.8,Widzew Lodz,1.0,90.0,0.0,0.04,0.0,0.07,0.11,0.11,1.0,1.0,0.0
+2447,,Moutinho,João Moutinho,DEF,1.8,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2448,,Douglas,Alex Douglas,DEF,1.8,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2450,,Brkic,Ivan Brkić,GKP,1.8,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2451,,Fiabema,Bryan Fiabema,FWD,1.8,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2454,989355.0,Resta,Pau Resta,DEF,1.9,GKS Katowice,1.0,90.0,0.0,0.26,0.0,0.01,0.27,0.27,0.0,3.0,0.0
+2456,1892375.0,Simon,Christopher Simon,MID,1.7,Motor Lublin,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2458,1462671.0,Zwozny,Hubert Zwoźny,DEF,1.7,Korona Kielce,1.0,90.0,0.0,0.0,0.0,0.03,0.03,0.03,1.0,0.0,0.0
+2461,985403.0,Ismaheel,Taofeek Ismaheel,MID,2.0,Gornik Zabrze,1.0,26.0,0.0,0.0,0.0,0.02,0.02,0.07,0.0,0.0,0.0
+2462,915325.0,Ammari,Amir Al-Ammari,MID,1.8,Cracovia,1.0,90.0,0.0,0.0,0.0,0.07,0.07,0.07,0.0,0.0,0.0
+2467,,Szczepaniak,Mateusz Szczepaniak,MID,0.7,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2470,,Brzyski,Igor Brzyski,MID,1.3,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2472,,Smolarczyk,Bartłomiej Smolarczyk,DEF,1.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2473,,Kosidis,Michalis Kosidis,FWD,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2476,,Brunes,Jonatan Braut Brunes,FWD,3.1,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2477,,Regula,Marcel Reguła,MID,2.1,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2480,,Hakans,Daniel Håkans,MID,1.8,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2481,954832.0,Hasic,Ajdin Hasić,MID,2.2,Cracovia,1.0,89.0,0.0,0.31,0.0,0.24,0.55,0.56,2.0,2.0,0.0
+2488,,Hoffman,Ian Hoffman,DEF,1.7,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2489,,Pitan,Levis Pitan,DEF,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2491,,Wojciechowski,Maciej Wojciechowski,MID,0.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2498,1014588.0,Walemark,Patrik Wålemark,MID,2.3,Lech Poznan,1.0,82.0,0.0,0.07,0.0,0.39,0.46,0.5,2.0,2.0,0.0
+2500,,Polak,Cezary Polak,DEF,1.6,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2502,,Katsantonis,Andréas Katsantónis,FWD,1.6,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2505,1124213.0,Keramitsis,Dimítrios Keramítsis,DEF,1.8,Pogon Szczecin,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2507,,Diaz,Jesus Diaz,MID,1.7,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2508,,Dziewiatowski,Mateusz Dziewiatowski,MID,1.4,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2510,,Kozlowski,Eryk Kozłowski,MID,0.7,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2517,1831318.0,Basse,Adam Basse,FWD,0.7,Rakow,1.0,8.0,0.0,0.07,0.0,0.0,0.07,0.79,0.0,1.0,0.0
+2518,,Sharabura,Yegor Sharabura,MID,0.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2520,,Pomietlo,Mateusz Pomietło,MID,0.7,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2524,,Gryzio,Daniel Gryzio,FWD,0.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2526,921442.0,Liseth,Sondre Liseth,FWD,2.0,Gornik Zabrze,1.0,45.0,0.0,0.04,0.0,0.16,0.2,0.4,0.0,1.0,0.0
+2527,,Thordarson,Gisli Thordarson,MID,1.8,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2530,,Lewandowski,Franciszek Lewandowski,MID,0.7,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2531,,Tratnik,Gašper Tratnik,GKP,1.6,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2535,,Kingue,Steve Kingué,DEF,1.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2538,1020086.0,Llinares,Marc Llinares,DEF,1.7,Slask Wroclaw,1.0,90.0,0.0,0.03,0.0,0.02,0.05,0.05,0.0,1.0,0.0
+2541,,Flach,Leon Flach,MID,1.8,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2548,,Abdullahi,Abbati Abdullahi,MID,1.7,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2552,1150377.0,Sotiriou,Konstantínos Sotiríou,DEF,1.9,Korona Kielce,1.0,90.0,0.0,0.0,0.0,0.03,0.03,0.03,0.0,0.0,0.0
+2553,,Wyganowski,Aleksander Wyganowski,MID,0.7,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2554,,Madej,Leon Madej,MID,0.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2555,,Stachowicz,Nikodem Stachowicz,MID,0.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2557,1000129.0,Tapsoba,Abdoul Tapsoba,FWD,1.7,Radomiak,1.0,75.0,0.0,0.43,0.0,0.0,0.43,0.52,0.0,2.0,0.0
+2560,1882566.0,Ciszek,Konrad Ciszek,DEF,0.9,Korona Kielce,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2561,,Mikielewicz,Michał Mikielewicz,GKP,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2566,,Pozo,José Pozo,MID,1.8,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2571,946840.0,Henriksson,Gustaw Henriksson,DEF,1.7,Cracovia,1.0,90.0,0.0,0.29,0.0,0.0,0.29,0.29,0.0,1.0,1.0
+2573,,Olewinski,Oliwier Olewiński,MID,1.2,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2577,,Corluka,Josip Ćorluka,DEF,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2578,,Rygiel,Szymon Rygiel,DEF,0.9,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2579,,Zawadzki,Jakub Zawadzki,DEF,0.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2582,,Minczew,Martin Minczew,MID,1.7,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2587,,Kopczynski,Mateusz Kopczyński,MID,0.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2588,1048923.0,Perkovic,Mauro Perković,DEF,1.8,Cracovia,1.0,90.0,0.0,0.0,0.0,0.01,0.01,0.01,1.0,0.0,0.0
+2592,,Kilianek,Szymon Kilianek,DEF,0.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2594,,Daniel,Justin Daniel,MID,0.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2595,,Polak,Dawid Polak,MID,0.7,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2596,,Kowalski,Jakub Kowalski,FWD,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2597,,Nowogonski,Kamil Nowogoński,MID,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2600,,Szafranski,Radosław Szafrański,DEF,0.7,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2616,1146194.0,Jakubczyk,Kamil Jakubczyk,MID,1.7,Korona Kielce,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2637,73980.0,Kaminski,Marcin Kamiński,DEF,1.9,Wisla Plock,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2638,,Kalandadze,Aleksandre Kalandadze,DEF,1.6,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2640,181613.0,Sangre,Marcus Haglind-Sangré,DEF,1.8,Wisla Plock,1.0,90.0,0.0,0.12,0.0,0.01,0.13,0.13,0.0,1.0,1.0
+2641,,Misiak,Przemyslaw Misiak,DEF,1.5,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2642,,Wieckowski,Marcin Więckowski,DEF,1.2,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2643,,Zajac,Filip Zając,DEF,0.7,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2644,,Lodzinski,Filip Łodziński,MID,1.0,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2647,,Serwach,Jakub Serwach,MID,1.2,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2648,,Lejman,Jakub Lejman,MID,0.7,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2649,,Jimenez,Jorge Jiménez,MID,1.8,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2652,338225.0,Pomorski,Krystian Pomorski,MID,1.7,Wisla Plock,1.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2653,,Bielka,Adrian Bielka,MID,0.8,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2655,1912441.0,Donio,Bastien Donio,MID,1.6,Gornik Zabrze,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2656,,Dziegielewski,Natan Dzięgielewski,MID,1.7,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2659,1390683.0,Lubik,Marcel Łubik,GKP,1.8,Wisla Krakow,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2661,1065442.0,Vital,Bernardo Vital,DEF,1.9,Jagiellonia,1.0,90.0,0.0,0.0,0.0,0.08,0.08,0.08,0.0,0.0,0.0
+2662,905345.0,Kobayashi,Yūki Kobayashi,DEF,1.7,Jagiellonia,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2664,1888815.0,Rallis,Dimítris Rállis,FWD,1.9,Jagiellonia,1.0,9.0,0.0,0.0,0.0,0.02,0.02,0.2,1.0,0.0,0.0
+2665,,Budnicki,Jakub Budnicki,DEF,1.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2668,959616.0,Svetlin,Tamar Svetlin,MID,1.8,Korona Kielce,1.0,84.0,0.0,0.16,0.0,0.1,0.26,0.28,0.0,2.0,0.0
+2669,877984.0,Vojtko,Matus Vojtko,DEF,1.7,Wieczysta,1.0,90.0,0.0,0.1,0.0,0.15,0.25,0.25,2.0,1.0,1.0
+2670,,Stojanovic,Petar Stojanović,DEF,1.7,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2671,1006858.0,Czubak,Karol Czubak,FWD,3.0,Motor Lublin,1.0,90.0,0.0,0.0,0.0,0.14,0.14,0.14,1.0,0.0,0.0
+2672,1131003.0,Haxha,Florian Haxha,MID,1.8,Motor Lublin,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2673,1127782.0,Karasek,Kacper Karasek,MID,1.7,Radomiak,1.0,15.0,0.0,0.0,0.0,0.01,0.01,0.06,1.0,0.0,0.0
+2675,,Boisgard,Quentin Boisgard,MID,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2676,,Twumasi,Emmanuel Twumasi,DEF,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2677,928857.0,Juwara,Musa Juwara,MID,1.8,Pogon Szczecin,1.0,62.0,0.0,0.1,0.0,0.11,0.21,0.3,1.0,1.0,0.0
+2679,992198.0,Mukairu,Paul Mukairu,MID,2.1,Pogon Szczecin,1.0,89.0,0.0,0.33,0.0,0.01,0.34,0.34,0.0,1.0,1.0
+2680,,N'Diaye,Mor N'Diaye,MID,1.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2681,1010310.0,Blasco,Jérémy Blasco,DEF,1.7,Radomiak,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2683,,Niziolek,Alex Niziołek,FWD,1.6,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2684,,Lopes,Vasco Lopes,MID,1.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2685,,Konstantopoulos,Apóstolos Konstantópoulos,DEF,1.7,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2686,,Akere,Samuel Akere,MID,1.9,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2687,1031756.0,Baena,Ángel Baena,MID,1.8,Widzew Lodz,1.0,65.0,0.0,0.0,1.0,0.26,0.26,0.36,1.0,0.0,0.0
+2688,,Gallapeni,Dion Gallapeni,DEF,1.8,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2689,922945.0,Selahi,Lindon Selahi,MID,1.8,Widzew Lodz,1.0,9.0,0.0,0.0,0.0,0.16,0.16,1.6,1.0,0.0,0.0
+2690,1046322.0,Visus,Ricardo Visus,DEF,1.7,Widzew Lodz,1.0,90.0,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0
+2692,,Szafranek,Wojciech Szafranek,FWD,0.9,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2696,,Glowinski,Mateusz Głowiński,FWD,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2697,,Szymanek,Kacper Szymanek,MID,1.2,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2698,860157.0,Bengtsson,Leo Bengtsson,MID,2.4,Lech Poznan,1.0,65.0,0.0,0.27,0.0,0.02,0.29,0.4,0.0,2.0,1.0
+2699,190171.0,Rodrigues,Ivo Rodrigues,MID,1.8,Motor Lublin,1.0,90.0,0.0,0.05,1.0,0.16,0.21,0.21,2.0,2.0,0.0
+2700,1902572.0,Meyer,Paskal Meyer,DEF,1.5,Motor Lublin,1.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2701,,Plichta,Kacper Plichta,FWD,0.7,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2702,,Davidovic,Stjepan Davidović,MID,1.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2703,976145.0,Camara,Ibrahima Camará,MID,1.7,Radomiak,1.0,84.0,0.0,0.0,0.0,0.09,0.09,0.1,2.0,0.0,0.0
+2706,,Kukulski,Patryk Kukulski,GKP,0.7,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2708,992951.0,Rajovic,Mileta Rajović,FWD,1.9,Legia,1.0,90.0,0.0,0.86,0.0,0.0,0.86,0.86,0.0,5.0,3.0
+2717,1014682.0,Rodriguez,Pablo Rodríguez,MID,2.0,Lech Poznan,1.0,75.0,0.0,0.07,0.0,0.04,0.11,0.13,1.0,2.0,0.0
+2719,,Sanca,Leandro Sanca,MID,1.8,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2720,,Nawrocki,Kuba Nawrocki,MID,0.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2722,,Minuczyc,Kacper Minuczyc,MID,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2724,911956.0,Massimo,Roberto Massimo,MID,1.7,Gornik Zabrze,1.0,45.0,0.0,0.07,0.0,0.01,0.08,0.16,0.0,2.0,1.0
+2727,2181702.0,Lawa,Natan Ława,MID,1.6,Pogon Szczecin,1.0,62.0,0.0,0.02,0.0,0.01,0.03,0.04,0.0,1.0,0.0
+2728,,Rivas,Juande Rivas,DEF,1.8,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2729,,Kameri,Dijon Kameri,MID,1.7,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2731,,Jackson,Aziel Jackson,MID,1.9,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2732,,Teklic,Tonio Teklić,MID,1.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2733,905421.0,Palma,Luis Palma,MID,3.5,Lech Poznan,1.0,25.0,0.0,0.05,0.0,0.25,0.3,1.08,2.0,1.0,0.0
+2734,,Pietryga,Piotr Pietryga,GKP,0.7,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2736,,Popielec,Cyprian Popielec,MID,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2737,905063.0,Bulat,Marko Bulat,MID,2.0,Rakow,1.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2741,,Peskovic,Alex Peškovič,GKP,0.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2742,1519355.0,Zahiroleslam,Kahveh Zahiroleslam,FWD,1.7,Cracovia,1.0,66.0,0.0,0.03,0.0,0.03,0.06,0.08,0.0,1.0,0.0
+2743,,Balde,Elves Balde,FWD,1.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2744,,Andreou,Stélios Andréou,DEF,1.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2745,44900.0,Klich,Mateusz Klich,MID,1.8,Cracovia,1.0,89.0,0.0,0.0,0.0,0.03,0.03,0.03,1.0,0.0,0.0
+2747,,Vallejo,Hugo Vallejo,MID,1.8,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2748,,Bosch,Jesse Bosch,MID,1.7,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2749,1158190.0,Arreiol,Henrique Arreiol,MID,1.7,Legia,1.0,15.0,0.0,0.02,0.0,0.0,0.02,0.12,0.0,1.0,0.0
+2750,,Jakubowski,Rafał Jakubowski,DEF,0.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2751,,Stanowski,Kacper Stanowski,FWD,0.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2752,,Rubezic,Slobodan Rubežić,DEF,1.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2755,,Baro,Romário Baró,MID,1.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2759,876595.0,Markovic,Eman Markovic,MID,2.2,GKS Katowice,1.0,90.0,0.0,0.42,0.0,0.03,0.45,0.45,0.0,4.0,1.0
+2761,,Molnar,Rajmund Molnár,FWD,1.9,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2762,1099220.0,Sylla,Youssuf Sylla,FWD,1.8,Jagiellonia,1.0,61.0,0.0,0.06,0.0,0.01,0.07,0.1,0.0,1.0,0.0
+2763,1112794.0,Traore,Brahim Traoré,DEF,1.7,Cracovia,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2765,,Jakobczyk,Kamil Jakóbczyk,FWD,0.7,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2767,1154114.0,Agnero,Yannick Agnero,FWD,1.8,Lech Poznan,1.0,15.0,0.0,0.02,0.0,0.01,0.03,0.18,0.0,1.0,1.0
+2768,,Colak,Antonio Čolak,FWD,1.8,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2769,,Mircetic,Bogdan Mirčetić,MID,1.8,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2770,,Ilic,Veljko Ilić,GKP,1.7,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2772,914749.0,Lozano,Sergio Lozano,MID,1.9,Jagiellonia,1.0,17.0,0.0,0.45,1.0,0.01,0.46,2.44,2.0,4.0,1.0
+2773,,Ba,Pape Meïssa Ba,FWD,1.8,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2775,1134514.0,Ronaldo,Fábio Ronaldo,MID,2.0,Motor Lublin,1.0,78.0,0.0,0.21,0.0,0.01,0.22,0.25,1.0,1.0,1.0
+2778,,Skoczylas,Mateusz Skoczylas,MID,1.4,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2779,,Juric,Deni Jurić,FWD,1.8,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2781,888605.0,Rogelj,Žan Rogelj,DEF,1.8,Wisla Plock,1.0,90.0,1.0,0.63,0.0,0.02,0.65,0.65,1.0,1.0,1.0
+2783,,Zeqiri,Andi Zeqiri,FWD,1.8,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2784,,Mendy,Benjamin Mendy,DEF,1.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2785,,Ali,Hussein Ali,DEF,1.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2786,,Balabuch,Antoni Bałabuch,GKP,0.7,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2787,,Damasiewicz,Adrian Damasiewicz,GKP,0.7,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2788,,Lesniewski,Mateusz Leśniewski,MID,0.7,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2789,,Kokosinski,Jakub Kokosiński,FWD,0.9,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2791,,Janyszka,Hubert Janyszka,DEF,0.7,Lech Poznan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2792,,Kuczynski,Maciej Kuczyński,FWD,0.7,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2794,280637.0,Sadilek,Lukáš Sadílek,MID,2.0,Gornik Zabrze,1.0,90.0,0.0,0.0,0.0,0.18,0.18,0.18,0.0,0.0,0.0
+2795,,Krasiewicz,Bartłomiej Krasiewicz,DEF,0.7,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2798,,Kovacik,Samuel Kováčik,MID,1.3,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2799,,Bukari,Osman Bukari,MID,2.0,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2800,1031329.0,Cheng,Christopher Cheng,DEF,1.8,Widzew Lodz,1.0,90.0,0.0,0.05,0.0,0.03,0.08,0.08,1.0,1.0,0.0
+2801,329519.0,Dragowski,Bartłomiej Drągowski,GKP,1.8,Widzew Lodz,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2802,,Lerager,Lukas Lerager,MID,1.8,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2803,,Bochno,Matwiej Bochno,DEF,1.4,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2805,1031665.0,Hindrich,Otto Hindrich,GKP,1.9,Legia,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2807,155950.0,Acosta,Kellyn Acosta,MID,1.8,Pogon Szczecin,1.0,89.0,0.0,0.06,0.0,0.02,0.08,0.08,0.0,1.0,0.0
+2809,319307.0,Gustafson,Simon Gustafson,MID,1.8,Korona Kielce,1.0,67.0,0.0,0.07,0.0,0.01,0.08,0.11,0.0,2.0,0.0
+2810,,Isaac,Carlos Isaac,DEF,1.8,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2811,,Ojo,Abraham Ojo,MID,1.8,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2812,,Sauer,Mathias Dahl Sauer,MID,1.8,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2814,,Brusberg,Isak Brusberg,FWD,1.8,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2815,1006996.0,Montoia,Guilherme Montóia,DEF,1.8,Jagiellonia,1.0,90.0,0.0,0.0,0.0,0.15,0.15,0.15,2.0,0.0,0.0
+2817,996685.0,Kornvig,Emil Kornvig,MID,2.1,Widzew Lodz,1.0,81.0,0.0,0.3,0.0,0.1,0.4,0.44,0.0,3.0,0.0
+2818,,Tabisz,Mateusz Tabisz,MID,1.3,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2820,1139088.0,Selan,Beno Selan,MID,1.6,Cracovia,1.0,64.0,0.0,0.03,0.0,0.0,0.03,0.04,0.0,1.0,0.0
+2821,823092.0,Szalai,Attila Szalai,DEF,1.9,Pogon Szczecin,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2822,,Fikaj,Elton Fikaj,DEF,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2824,,Zabicki,Adam Żabicki,MID,0.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2826,,Szabo,Levente Szabó,FWD,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2827,,Ligocki,Jakub Ligocki,MID,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2828,,Marek,Seweryn Marek,MID,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2829,,Urbanski,Maciej Urbański,DEF,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2830,,Zalewski,Zachary Zalewski,MID,0.7,Jagiellonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2831,,Maziarz,Oliwier Maziarz,MID,0.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2832,,Grelich,Jakub Grelich,GKP,0.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2833,,Mlinaric,Mihael Mlinarić,FWD,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2834,1504109.0,Napieraj,Jerzy Napieraj,DEF,0.9,Rakow,1.0,66.0,0.0,0.0,0.0,0.3,0.3,0.41,1.0,0.0,0.0
+2835,,Czaplinski,Jacek Czapliński,MID,0.8,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2836,,Karamarko,Marin Karamarko,DEF,1.7,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2837,,Rojek,Sebastian Rojek,MID,0.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2838,,Czeremski,Dominik Czeremski,GKP,0.7,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2839,,Lima,Ivan Lima,MID,1.8,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2841,1409317.0,Dimi,Yvan Ikia Dimi,MID,1.7,Gornik Zabrze,1.0,89.0,1.0,0.1,0.0,0.15,0.25,0.25,0.0,2.0,1.0
+2843,1926159.0,Zolneczko,Wiktor Żołneczko,GKP,0.7,Rakow,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+2845,930445.0,Santos,Thomas Santos,DEF,1.7,Motor Lublin,1.0,90.0,0.0,0.02,0.0,0.19,0.21,0.21,2.0,1.0,0.0
+2846,1120369.0,Cuic,Filip Čuić,FWD,1.9,Pogon Szczecin,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2847,1065629.0,Agger,Mads Agger,MID,1.8,Pogon Szczecin,1.0,28.0,0.0,0.0,0.0,0.01,0.01,0.03,1.0,0.0,0.0
+2848,942689.0,Zmrzly,Ondřej Zmrzlý,DEF,1.8,Gornik Zabrze,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2849,,Savvidis,Kyriákos Savvídis,MID,1.7,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2850,,Markiewicz,Oskar Markiewicz,DEF,0.7,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2851,,Olsen,Marius Olsen,DEF,1.7,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2852,,Brzozowski,Krystian Brzozowski,DEF,0.7,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2854,,Hancko,Adam Hańćko,MID,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2855,,Pankowski,Wojciech Pańkowski,GKP,0.7,GKS Katowice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2859,,Rogowski,Nikodem Rogowski,DEF,0.7,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2863,,Stepak,Jakub Stępak,GKP,0.7,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2864,,Letkiewicz,Patryk Letkiewicz,GKP,1.6,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2865,1396487.0,Maisonneuve,Maxence Maisonneuve,DEF,1.7,Wisla Krakow,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2866,,Grujcic,Darijo Grujcic,DEF,1.7,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2867,,Kutwa,Mariusz Kutwa,DEF,1.5,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2868,,Skrobanski,Kacper Skrobański,DEF,0.7,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2869,1423456.0,Krzyzanowski,Jakub Krzyżanowski,DEF,1.6,Wisla Krakow,1.0,90.0,0.0,0.06,0.0,0.02,0.08,0.08,1.0,1.0,0.0
+2870,,Mikulec,Rafał Mikulec,DEF,1.6,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2871,798179.0,Lelieveld,Julian Lelieveld,DEF,1.7,Wisla Krakow,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2872,839430.0,Giger,Raoul Giger,DEF,1.6,Wisla Krakow,1.0,90.0,0.0,0.0,1.0,0.48,0.48,0.48,2.0,0.0,0.0
+2873,,Omic,Ervin Omic,MID,1.6,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2874,939851.0,Igbekeme,James Igbekeme,MID,1.7,Wisla Krakow,1.0,90.0,0.0,0.05,0.0,0.06,0.11,0.11,1.0,2.0,0.0
+2875,858946.0,Carbo,Marc Carbó,MID,1.7,Wisla Krakow,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2876,,Staszak,Wiktor Staszak,MID,1.0,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2877,769123.0,Ertlthaler,Julius Ertlthaler,MID,1.8,Wisla Krakow,1.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2878,980992.0,Duarte,Frederico Duarte,MID,2.0,Wisla Krakow,1.0,82.0,0.0,0.29,0.0,0.13,0.42,0.46,2.0,4.0,1.0
+2879,1979705.0,Kuziemka,Maciej Kuziemka,MID,1.7,Wisla Krakow,1.0,67.0,0.0,0.34,0.0,0.04,0.38,0.51,2.0,6.0,0.0
+2880,869880.0,Bozic,Marko Bozic,MID,1.8,Wisla Krakow,1.0,82.0,1.0,0.82,0.0,0.03,0.85,0.93,2.0,2.0,1.0
+2881,966446.0,Rodado,Ángel Rodado,FWD,2.2,Wisla Krakow,1.0,23.0,0.0,0.04,0.0,0.0,0.04,0.16,0.0,1.0,0.0
+2882,,Kawala,Szymon Kawała,FWD,0.9,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2883,1162089.0,Christodoulou,Irodotos Christodoulou,DEF,1.8,Slask Wroclaw,1.0,90.0,0.0,0.03,0.0,0.01,0.04,0.04,0.0,1.0,0.0
+2884,872038.0,Ba,Lamine Ba,DEF,1.7,Slask Wroclaw,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2885,,Dijakovic,Marko Dijakovic,DEF,1.6,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2886,1139243.0,Shabani,Eniss Shabani,MID,1.9,Slask Wroclaw,1.0,15.0,0.0,0.0,0.0,0.09,0.09,0.54,1.0,0.0,0.0
+2887,893673.0,Yriarte,Jorge Yriarte,MID,1.6,Slask Wroclaw,1.0,90.0,0.0,0.01,0.0,0.04,0.05,0.05,1.0,1.0,0.0
+2888,,Markowski,Dorian Markowski,MID,0.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2889,,Mazan,Przemyslaw Mazan,MID,0.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2890,876303.0,Andersson,Alex Timossi Andersson,MID,2.0,Slask Wroclaw,1.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2891,1473416.0,Rosiak,Michał Rosiak,MID,1.5,Slask Wroclaw,1.0,75.0,0.0,0.21,0.0,0.02,0.23,0.28,0.0,3.0,0.0
+2892,1210678.0,Marjanac,Luka Marjanac,MID,1.9,Slask Wroclaw,1.0,75.0,0.0,0.12,0.0,0.01,0.13,0.16,0.0,1.0,0.0
+2893,,Ciucka,Adam Ciućka,MID,0.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2894,886979.0,Dembele,Malaly Dembélé,FWD,1.9,Slask Wroclaw,1.0,26.0,0.0,0.12,0.0,0.05,0.17,0.59,1.0,1.0,0.0
+2895,1005830.0,Schulze,Philipp Schulze,GKP,1.7,Gornik Zabrze,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2896,,Kustra,Antoni Kustra,GKP,0.7,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2897,1122497.0,Dujmovic,Duje Dujmovic,DEF,1.8,Wieczysta,1.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2898,1147556.0,Djermanovic,Aleksandar Djermanovic,DEF,1.7,Wieczysta,1.0,90.0,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0
+2899,,Zagrodzki,Kacper Zagrodzki,DEF,0.7,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2900,,Knezevic,Nikola Knezevic,MID,1.7,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2901,822231.0,Christensen,Tobias Christensen,MID,1.8,Wieczysta,1.0,23.0,0.0,0.04,0.0,0.05,0.09,0.35,1.0,1.0,0.0
+2902,156025.0,Piazon,Lucas Piazón,MID,1.7,Wieczysta,1.0,90.0,0.0,0.14,0.0,0.09,0.23,0.23,3.0,2.0,1.0
+2903,837015.0,Pusic,Petar Pusic,MID,1.7,Wieczysta,1.0,11.0,0.0,0.02,0.0,0.02,0.04,0.33,0.0,1.0,0.0
+2904,,Lungoyi,Christopher Lungoyi,MID,2.0,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2905,,Donkor,Jacky Donkor,MID,1.7,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2906,989101.0,Feiertag,Stefan Feiertag,FWD,1.9,Wieczysta,1.0,79.0,1.0,0.98,0.0,0.29,1.27,1.45,3.0,2.0,1.0
+2907,1093963.0,Paulinho, Paulinho,FWD,1.8,Wieczysta,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2908,1471169.0,Bartlewicz,Szymon Bartlewicz,MID,1.6,GKS Katowice,1.0,15.0,1.0,0.11,0.0,0.04,0.15,0.9,0.0,1.0,1.0
+2909,,Baumgartner,Dominik Baumgartner,DEF,1.8,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2910,,Durdov,Bruno Durdov,MID,1.9,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2911,,Nongo,Gédéon Nongo,MID,1.8,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2912,843208.0,Prekop,Erik Prekop,FWD,2.0,Gornik Zabrze,1.0,81.0,0.0,0.08,0.0,0.02,0.1,0.11,1.0,1.0,1.0
+2913,,Semik,Ksawery Semik,MID,0.9,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2914,,Synos,Michał Synoś,DEF,1.5,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2915,1126582.0,Warczak,Patryk Warczak,DEF,1.5,Gornik Zabrze,1.0,45.0,0.0,0.0,0.0,0.11,0.11,0.22,0.0,0.0,0.0
+2916,,Kalemba,Marcel Kalemba,MID,1.4,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2917,905474.0,Sayyadmanesh,Allahyar Sayyadmanesh,MID,2.2,Lech Poznan,1.0,8.0,0.0,0.01,0.0,0.03,0.04,0.45,0.0,1.0,1.0
+2918,1200442.0,Yegbe,Terry Yegbe,DEF,2.1,Lech Poznan,1.0,90.0,0.0,0.01,0.0,0.01,0.02,0.02,1.0,1.0,0.0
+2919,,Deziel,Robert Deziel,DEF,1.7,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2920,1136902.0,Aiko,Makan Aïko,MID,1.8,Motor Lublin,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2921,958598.0,Popa,Mihai Popa,GKP,1.8,Motor Lublin,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2922,,Akatov,Artem Akatov,DEF,0.9,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2923,,Zlomanczuk,Marcel Złomańczuk,MID,0.7,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2924,,Gril,Domen Gril,GKP,1.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2925,,Kucharski,Maciek Kucharski,FWD,0.7,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2926,,Ntamack,Samuel Ntamack,FWD,2.0,Piast Gliwice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2927,,Botis,Níkos Bótis,GKP,1.7,Pogon Szczecin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2928,1100897.0,Goure,Fernand Gouré,FWD,1.7,Radomiak,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+2929,,Manu, Manu,FWD,1.9,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2930,,Debohi,Dieudonné Debohi,DEF,1.9,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2931,,Jendryka,Jakub Jendryka,DEF,1.8,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2932,,Karic,Tarik Karić,GKP,1.8,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2933,,Kwiatkowski,Oliwier Kwiatkowski,MID,1.6,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2934,1405717.0,Molnar,Ádin Molnár,MID,2.1,Rakow,1.0,34.0,0.0,0.0,0.0,0.07,0.07,0.19,2.0,0.0,0.0
+2935,880745.0,Prsir,Jurica Pršir,MID,1.9,Wisla Plock,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2936,,Colina,David Čolina,DEF,1.8,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2937,,Kosmalski,Paweł Kosmalski,MID,1.2,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2938,,Lyczko,Szymon Łyczko,MID,1.5,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2939,928848.0,Prelec,Nik Prelec,FWD,2.0,Jagiellonia,1.0,29.0,1.0,0.71,0.0,0.02,0.73,2.27,1.0,1.0,1.0
+2940,,Garcia,Mario García,DEF,1.9,Widzew Lodz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2941,921362.0,Youan,Élie Youan,MID,1.9,Wisla Krakow,1.0,8.0,0.0,0.03,0.0,0.0,0.03,0.34,0.0,1.0,0.0
+2942,,Sevcik,Michal Ševčík,MID,2.0,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2943,,Gonzalez,Peter González,MID,1.9,Gornik Zabrze,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2944,,Gregorski,Dominik Gregorski,FWD,1.0,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2945,945121.0,Conceicao,Rodrigo Conceicao,DEF,2.0,Jagiellonia,1.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2946,,Plawinski,Oliwier Pławiński,MID,0.7,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2947,,Tokarczyk,Karol Tokarczyk,MID,0.7,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2948,,Blaszkiewicz,Kacper Błaszkiewicz,FWD,0.9,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2949,,Dari,Oskar Dari,MID,0.8,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2950,,Wadas,Szymon Wadas,GKP,0.7,Wisla Plock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2951,,Cavlina,Nikola Čavlina,GKP,1.8,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2952,825841.0,Nunnely,Ché Nunnely,MID,1.8,Radomiak,1.0,11.0,0.0,0.09,0.0,0.0,0.09,0.74,0.0,1.0,0.0
+2953,891507.0,Bourhane,Yacine Bourhane,MID,1.8,Motor Lublin,1.0,63.0,0.0,0.16,0.0,0.01,0.17,0.24,0.0,1.0,1.0
+2954,1149293.0,Burlet,Vincent Burlet,DEF,1.8,Cracovia,1.0,24.0,0.0,0.1,0.0,0.01,0.11,0.41,0.0,1.0,0.0
+2955,,Chmielewski,Igor Chmielewski,DEF,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2956,,Tobola,Kornel Toboła,FWD,0.7,Korona Kielce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2957,,Dziekonski,Patryk Dziekoński,MID,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2958,,Nowak,Franciszek Nowak,GKP,0.7,Zaglebie Lubin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2959,,Przybylko,Filip Przybyłko,MID,0.7,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2960,,Cymbulak,Maksym Cymbulak,MID,1.2,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2961,,Calko,Nikodem Całko,DEF,0.7,Rakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2962,,Mikanowicz,Erik Mikanowicz,MID,0.7,Legia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2963,1002568.0,Dietz,Maximilian Dietz,DEF,2.0,Gornik Zabrze,1.0,45.0,0.0,0.0,0.0,0.04,0.04,0.08,2.0,0.0,0.0
+2964,,Stechnij,Patryk Stechnij,GKP,1.0,Wieczysta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2965,,Marciniak,Alex Marciniak,MID,1.7,Cracovia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2966,1403575.0,Agbonifo,Jeremy Agbonifo,MID,2.0,Jagiellonia,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2967,,Guillemenot,Jérémy Guillemenot,FWD,2.0,Wisla Krakow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2968,,Zulewski,Adrian Żulewski,DEF,0.7,Slask Wroclaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2969,,Dohojda,Nicolas Dohojda,MID,0.9,Radomiak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2970,,Kraska,Konrad Kraska,MID,0.7,Motor Lublin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

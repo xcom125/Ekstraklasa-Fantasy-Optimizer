@@ -1,0 +1,145 @@
+team,gw,opponent,is_home,date,kickoff_local,status,notes
+Cracovia,1,Lech Poznań,False,2026-07-25,20:15,scheduled,nan
+GKS Katowice,1,Wisła Kraków,False,2026-07-26,20:15,scheduled,nan
+Górnik Zabrze,1,Śląsk Wrocław,True,2026-07-25,17:30,scheduled,nan
+Jagiellonia Białystok,1,Korona Kielce,True,2026-07-25,14:45,scheduled,nan
+Korona Kielce,1,Jagiellonia Białystok,False,2026-07-25,14:45,scheduled,nan
+Lech Poznań,1,Cracovia,True,2026-07-25,20:15,scheduled,nan
+Legia Warszawa,1,Pogoń Szczecin,False,2026-07-24,20:30,scheduled,nan
+Motor Lublin,1,Widzew Łódź,False,2026-07-26,17:30,scheduled,nan
+Piast Gliwice,1,Zagłębie Lubin,False,2026-07-27,19:00,scheduled,nan
+Pogoń Szczecin,1,Legia Warszawa,True,2026-07-24,20:30,scheduled,nan
+Radomiak Radom,1,Wieczysta Kraków,True,2026-07-24,18:00,scheduled,nan
+Raków Częstochowa,1,Wisła Płock,True,2026-07-26,14:45,scheduled,nan
+Widzew Łódź,1,Motor Lublin,True,2026-07-26,17:30,scheduled,nan
+Wieczysta Kraków,1,Radomiak Radom,False,2026-07-24,18:00,scheduled,nan
+Wisła Kraków,1,GKS Katowice,True,2026-07-26,20:15,scheduled,nan
+Wisła Płock,1,Raków Częstochowa,False,2026-07-26,14:45,scheduled,nan
+Zagłębie Lubin,1,Piast Gliwice,True,2026-07-27,19:00,scheduled,nan
+Śląsk Wrocław,1,Górnik Zabrze,False,2026-07-25,17:30,scheduled,nan
+Cracovia,2,Pogoń Szczecin,True,2026-08-03,19:00,scheduled,nan
+GKS Katowice,2,Radomiak Radom,True,2026-08-02,20:15,scheduled,nan
+Górnik Zabrze,2,Korona Kielce,False,2026-08-01,18:15,rescheduled,"Moved up from the original 20:15 local slot (still Matchweek 2, still Korona (H) v Górnik (A)); confirmed 2026-08-01, 18:15."
+Jagiellonia Białystok,2,Motor Lublin,False,2026-07-31,20:30,scheduled,nan
+Korona Kielce,2,Górnik Zabrze,True,2026-08-01,18:15,rescheduled,"Moved up from the original 20:15 local slot (still Matchweek 2, still Korona (H) v Górnik (A)); confirmed 2026-08-01, 18:15."
+Lech Poznań,2,Wieczysta Kraków,False,2026-08-01,17:30,scheduled,nan
+Legia Warszawa,2,Zagłębie Lubin,True,2026-08-02,14:45,scheduled,nan
+Motor Lublin,2,Jagiellonia Białystok,True,2026-07-31,20:30,scheduled,nan
+Piast Gliwice,2,Wisła Kraków,True,2026-08-01,14:45,scheduled,nan
+Pogoń Szczecin,2,Cracovia,False,2026-08-03,19:00,scheduled,nan
+Radomiak Radom,2,GKS Katowice,False,2026-08-02,20:15,scheduled,nan
+Raków Częstochowa,2,Śląsk Wrocław,False,2026-08-02,17:30,scheduled,nan
+Widzew Łódź,2,Wisła Płock,False,2026-07-31,18:00,scheduled,nan
+Wieczysta Kraków,2,Lech Poznań,True,2026-08-01,17:30,scheduled,nan
+Wisła Kraków,2,Piast Gliwice,False,2026-08-01,14:45,scheduled,nan
+Wisła Płock,2,Widzew Łódź,True,2026-07-31,18:00,scheduled,nan
+Zagłębie Lubin,2,Legia Warszawa,False,2026-08-02,14:45,scheduled,nan
+Śląsk Wrocław,2,Raków Częstochowa,True,2026-08-02,17:30,scheduled,nan
+Cracovia,3,Śląsk Wrocław,False,2026-08-10,19:00,scheduled,nan
+GKS Katowice,3,Wieczysta Kraków,True,2026-08-09,17:30,scheduled,nan
+Górnik Zabrze,3,Radomiak Radom,False,2026-08-08,14:45,scheduled,nan
+Jagiellonia Białystok,3,Widzew Łódź,True,2026-08-09,20:15,scheduled,nan
+Korona Kielce,3,Legia Warszawa,True,2026-08-08,20:15,scheduled,nan
+Lech Poznań,3,Piast Gliwice,True,2026-08-08,17:30,scheduled,nan
+Legia Warszawa,3,Korona Kielce,False,2026-08-08,20:15,scheduled,nan
+Motor Lublin,3,Pogoń Szczecin,False,2026-08-07,18:00,scheduled,nan
+Piast Gliwice,3,Lech Poznań,False,2026-08-08,17:30,scheduled,nan
+Pogoń Szczecin,3,Motor Lublin,True,2026-08-07,18:00,scheduled,nan
+Radomiak Radom,3,Górnik Zabrze,True,2026-08-08,14:45,scheduled,nan
+Raków Częstochowa,3,Zagłębie Lubin,True,2026-08-09,14:45,scheduled,nan
+Widzew Łódź,3,Jagiellonia Białystok,False,2026-08-09,20:15,scheduled,nan
+Wieczysta Kraków,3,GKS Katowice,False,2026-08-09,17:30,scheduled,nan
+Wisła Kraków,3,Wisła Płock,True,2026-08-07,20:30,scheduled,nan
+Wisła Płock,3,Wisła Kraków,False,2026-08-07,20:30,scheduled,nan
+Zagłębie Lubin,3,Raków Częstochowa,False,2026-08-09,14:45,scheduled,nan
+Śląsk Wrocław,3,Cracovia,True,2026-08-10,19:00,scheduled,nan
+Cracovia,4,Raków Częstochowa,True,2026-08-16,20:15,scheduled,nan
+GKS Katowice,4,Motor Lublin,False,2026-08-16,14:45,scheduled,nan
+Górnik Zabrze,4,Wisła Kraków,True,2026-08-15,20:15,scheduled,nan
+Jagiellonia Białystok,4,Pogoń Szczecin,True,2026-08-16,17:30,scheduled,nan
+Korona Kielce,4,Widzew Łódź,False,2026-08-14,18:00,scheduled,nan
+Lech Poznań,4,Wisła Płock,False,2026-08-15,17:30,scheduled,nan
+Legia Warszawa,4,Radomiak Radom,True,2026-08-14,20:30,scheduled,nan
+Motor Lublin,4,GKS Katowice,True,2026-08-16,14:45,scheduled,nan
+Piast Gliwice,4,Wieczysta Kraków,True,2026-08-17,19:00,scheduled,nan
+Pogoń Szczecin,4,Jagiellonia Białystok,False,2026-08-16,17:30,scheduled,nan
+Radomiak Radom,4,Legia Warszawa,False,2026-08-14,20:30,scheduled,nan
+Raków Częstochowa,4,Cracovia,False,2026-08-16,20:15,scheduled,nan
+Widzew Łódź,4,Korona Kielce,True,2026-08-14,18:00,scheduled,nan
+Wieczysta Kraków,4,Piast Gliwice,False,2026-08-17,19:00,scheduled,nan
+Wisła Kraków,4,Górnik Zabrze,False,2026-08-15,20:15,scheduled,nan
+Wisła Płock,4,Lech Poznań,True,2026-08-15,17:30,scheduled,nan
+Zagłębie Lubin,4,Śląsk Wrocław,True,2026-08-15,14:45,scheduled,nan
+Śląsk Wrocław,4,Zagłębie Lubin,False,2026-08-15,14:45,scheduled,nan
+Cracovia,5,Wieczysta Kraków,True,2026-08-22,,scheduled,nan
+GKS Katowice,5,Wisła Płock,True,2026-08-22,,scheduled,nan
+Górnik Zabrze,5,Raków Częstochowa,False,2026-08-22,,scheduled,nan
+Jagiellonia Białystok,5,Lech Poznań,False,2026-08-22,,scheduled,nan
+Korona Kielce,5,Motor Lublin,True,2026-08-22,,scheduled,nan
+Lech Poznań,5,Jagiellonia Białystok,True,2026-08-22,,scheduled,nan
+Legia Warszawa,5,Piast Gliwice,False,2026-08-22,,scheduled,nan
+Motor Lublin,5,Korona Kielce,False,2026-08-22,,scheduled,nan
+Piast Gliwice,5,Legia Warszawa,True,2026-08-22,,scheduled,nan
+Pogoń Szczecin,5,Wisła Kraków,True,2026-08-22,,scheduled,nan
+Radomiak Radom,5,Zagłębie Lubin,True,2026-08-22,,scheduled,nan
+Raków Częstochowa,5,Górnik Zabrze,True,2026-08-22,,scheduled,nan
+Widzew Łódź,5,Śląsk Wrocław,False,2026-08-22,,scheduled,nan
+Wieczysta Kraków,5,Cracovia,False,2026-08-22,,scheduled,nan
+Wisła Kraków,5,Pogoń Szczecin,False,2026-08-22,,scheduled,nan
+Wisła Płock,5,GKS Katowice,False,2026-08-22,,scheduled,nan
+Zagłębie Lubin,5,Radomiak Radom,False,2026-08-22,,scheduled,nan
+Śląsk Wrocław,5,Widzew Łódź,True,2026-08-22,,scheduled,nan
+Cracovia,6,Radomiak Radom,False,2026-08-29,,scheduled,nan
+GKS Katowice,6,Górnik Zabrze,False,2026-08-29,,scheduled,nan
+Górnik Zabrze,6,GKS Katowice,True,2026-08-29,,scheduled,nan
+Jagiellonia Białystok,6,Raków Częstochowa,False,2026-08-29,,scheduled,nan
+Korona Kielce,6,Wisła Płock,False,2026-08-29,,scheduled,nan
+Lech Poznań,6,Widzew Łódź,False,2026-08-29,,scheduled,nan
+Legia Warszawa,6,Śląsk Wrocław,True,2026-08-29,,scheduled,nan
+Motor Lublin,6,Piast Gliwice,True,2026-08-29,,scheduled,nan
+Piast Gliwice,6,Motor Lublin,False,2026-08-29,,scheduled,nan
+Pogoń Szczecin,6,Zagłębie Lubin,False,2026-08-29,,scheduled,nan
+Radomiak Radom,6,Cracovia,True,2026-08-29,,scheduled,nan
+Raków Częstochowa,6,Jagiellonia Białystok,True,2026-08-29,,scheduled,nan
+Widzew Łódź,6,Lech Poznań,True,2026-08-29,,scheduled,nan
+Wieczysta Kraków,6,Wisła Kraków,False,2026-08-29,,scheduled,nan
+Wisła Kraków,6,Wieczysta Kraków,True,2026-08-29,,scheduled,nan
+Wisła Płock,6,Korona Kielce,True,2026-08-29,,scheduled,nan
+Zagłębie Lubin,6,Pogoń Szczecin,True,2026-08-29,,scheduled,nan
+Śląsk Wrocław,6,Legia Warszawa,False,2026-08-29,,scheduled,nan
+Cracovia,7,Górnik Zabrze,True,2026-09-05,,scheduled,nan
+GKS Katowice,7,Piast Gliwice,False,2026-09-05,,scheduled,nan
+Górnik Zabrze,7,Cracovia,False,2026-09-05,,scheduled,nan
+Jagiellonia Białystok,7,Śląsk Wrocław,True,2026-09-05,,scheduled,nan
+Korona Kielce,7,Wisła Kraków,True,2026-09-05,,scheduled,nan
+Lech Poznań,7,Raków Częstochowa,True,2026-09-05,,scheduled,nan
+Legia Warszawa,7,Motor Lublin,False,2026-09-05,,scheduled,nan
+Motor Lublin,7,Legia Warszawa,True,2026-09-05,,scheduled,nan
+Piast Gliwice,7,GKS Katowice,True,2026-09-05,,scheduled,nan
+Pogoń Szczecin,7,Wisła Płock,True,2026-09-05,,scheduled,nan
+Radomiak Radom,7,Widzew Łódź,False,2026-09-05,,scheduled,nan
+Raków Częstochowa,7,Lech Poznań,False,2026-09-05,,scheduled,nan
+Widzew Łódź,7,Radomiak Radom,True,2026-09-05,,scheduled,nan
+Wieczysta Kraków,7,Zagłębie Lubin,True,2026-09-05,,scheduled,nan
+Wisła Kraków,7,Korona Kielce,False,2026-09-05,,scheduled,nan
+Wisła Płock,7,Pogoń Szczecin,False,2026-09-05,,scheduled,nan
+Zagłębie Lubin,7,Wieczysta Kraków,False,2026-09-05,,scheduled,nan
+Śląsk Wrocław,7,Jagiellonia Białystok,False,2026-09-05,,scheduled,nan
+Cracovia,8,Wisła Płock,False,2026-09-12,,scheduled,nan
+GKS Katowice,8,Zagłębie Lubin,False,2026-09-12,,scheduled,nan
+Górnik Zabrze,8,Lech Poznań,True,2026-09-12,,scheduled,nan
+Jagiellonia Białystok,8,Wisła Kraków,False,2026-09-12,,scheduled,nan
+Korona Kielce,8,Śląsk Wrocław,False,2026-09-12,,scheduled,nan
+Lech Poznań,8,Górnik Zabrze,False,2026-09-12,,scheduled,nan
+Legia Warszawa,8,Widzew Łódź,True,2026-09-12,,scheduled,nan
+Motor Lublin,8,Raków Częstochowa,False,2026-09-12,,scheduled,nan
+Piast Gliwice,8,Radomiak Radom,False,2026-09-12,,scheduled,nan
+Pogoń Szczecin,8,Wieczysta Kraków,True,2026-09-12,,scheduled,nan
+Radomiak Radom,8,Piast Gliwice,True,2026-09-12,,scheduled,nan
+Raków Częstochowa,8,Motor Lublin,True,2026-09-12,,scheduled,nan
+Widzew Łódź,8,Legia Warszawa,False,2026-09-12,,scheduled,nan
+Wieczysta Kraków,8,Pogoń Szczecin,False,2026-09-12,,scheduled,nan
+Wisła Kraków,8,Jagiellonia Białystok,True,2026-09-12,,scheduled,nan
+Wisła Płock,8,Cracovia,True,2026-09-12,,scheduled,nan
+Zagłębie Lubin,8,GKS Katowice,True,2026-09-12,,scheduled,nan
+Śląsk Wrocław,8,Korona Kielce,True,2026-09-12,,scheduled,nan
