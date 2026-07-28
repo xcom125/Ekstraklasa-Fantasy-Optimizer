@@ -20,7 +20,7 @@ python pipeline/build_fixtures.py
 python pipeline/build_player_pool.py
 
 
-Project Layout
+##  Project Layout
 
 Ekstraklasa-Fantasy-Optimizer/
 ├── pipeline/      # Data parsing & player pool generation
@@ -30,9 +30,9 @@ Ekstraklasa-Fantasy-Optimizer/
 ├── main.py        # Main CLI entrypoint
 └── settings.json  # Weekly settings (squad IDs, ITB budget, FTs)
 
-License: MIT License.
+##  License: MIT License.
 
-## Acknowledgements & Open Source Credits
+##  Acknowledgements & Open Source Credits
 **[open-fpl-solver](https://github.com/solioanalytics/open-fpl-solver)** (Solio Analytics, Apache 2.0) — Structural inspiration for multi-period integer linear programming patterns in fantasy analytics.
 * **CBC & HiGHS Solvers** — High-performance open-source linear programming engines (via PuLP).
 * **StatsUltra, Sofascore & FBref** — Source data for club strength metrics, match predictions, and player performance statistics.
