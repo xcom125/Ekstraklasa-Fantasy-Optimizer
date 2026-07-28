@@ -5,7 +5,6 @@ An open-source multi-week squad and transfer optimizer for **LOTTO Fantasy Ekstr
 ---
 
 ## Quickstart
-
 ```bash
 # 1. Clone & install
 git clone [https://github.com/xcom125/Ekstraklasa-Fantasy-Optimizer.git](https://github.com/xcom125/Ekstraklasa-Fantasy-Optimizer.git)
